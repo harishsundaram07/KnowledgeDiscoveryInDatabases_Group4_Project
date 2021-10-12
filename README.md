@@ -1,4 +1,4 @@
-Performance analysis of Tennis Players over the decades
+Performance analysis of tennis players over the decades
 
 Members of Group 4:
 Harikrishnan Sundaram 
