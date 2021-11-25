@@ -59,6 +59,8 @@ Ignore the tuples: A tuple is an ordered list or sequence of numbers or entities
 
 Manually fill in missing data: This can be tedious, but is definitely necessary when working with smaller data sets.
 
+Take the mean of the data: We can take the mean of the data to fill the missing values. Generally, replacing the missing values with the average is a crude way of treating missing values. Depending on the context, like if the variation is low or if the variable has low leverage over the response, such a rough approximation is acceptable and could give satisfactory results. In this case, since you are saying it is a categorical variable — this step may not be applicable
+
 
 **3. Data reduction**
 
