@@ -123,10 +123,20 @@ We can conclude that female players are more likely to win when they are in the 
 
 Female players are leaste likely to play and win with age above 35.
 
+CONTINGENCY TABLE
+In a contingency table, each cell represents the combination of the two variables. You need to read across the table to witness how the two variables i.e., independent, and dependent variables relate to each other.
+
+![image](https://user-images.githubusercontent.com/69467542/145259556-dc675bd3-f92f-4bd6-87a6-647bbfa58a6c.png)
+
+![image](https://user-images.githubusercontent.com/69467542/145259587-4fffe5d9-85e4-478d-b542-bc1aa080b4c0.png)
+
+![image](https://user-images.githubusercontent.com/69467542/145259619-4cc423cb-1473-4170-bf72-785a79f1ccf5.png)
+![image](https://user-images.githubusercontent.com/69467542/145259638-4c912f80-7d8a-4c69-bcf6-7695861f30d7.png)
+![image](https://user-images.githubusercontent.com/69467542/145259665-d620f263-5c2f-4729-b3cf-0fb82ac94cfe.png)
 
 
 
-FURTHER ANALYSIS WILL BE DONE USING VARIOUS DECRIPTIVE ANALYSIS METHODS PROVIDED DURING THE MODEL PLANNING. WE TEND TO INCLUDE MANY MORE GRAPHS AND CHARTS TO UNDERSTAND WHY CERTAIN FACTOR IS INFLUENCING THE CHANGE IN THE TREND OF ALL MALE AND FEMALE PLAYERS WINNING THE CHAMPIONSHIP.
+
 
 
 
